@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Patil;Jignesh;;;
+FN:Jignesh Patil
+ORG:Liquid Mash
+ADR;TYPE=WORK:Morningside, Sandton, Johannesburg, South Africa
+TITLE:Founder
+TEL;TYPE=CELL:+27724340495
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jignesh@liquidmash.io
+URL;TYPE=Digital Business Card:
+URL:https://www.liquidmash.io
+URL;TYPE=Website:https://www.liquidmash.io
+URL;TYPE=WhatsApp:https://wa.link/gove1q
+URL;TYPE=Calendar:https://cal.com/patiljignesh
+URL;TYPE=GitHub:https://github.com/patiljignesh
+URL;TYPE=Twitter:https://twitter.com/jignesh272
+KEY;TYPE=PGP;ENCODING=b:
+NOTE: Liquid Mash offers a comprehensive range of AI-driven solutions designed to enhance every aspect of a business. Their services include sales, support, marketing, and consulting, tailored to meet unique business needs. Digital marketing is a part of their offerings, emphasizing their focus on enhancing marketing strategies through AI.
+UID:EnBizCard-100724410
+END:VCARD
